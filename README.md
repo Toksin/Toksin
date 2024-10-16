@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CA1C1C&width=435&lines=Welcooome!)](https://git.io/typing-svg)
 
-<img src="https://media1.tenor.com/m/RE2paf1i2tcAAAAd/milk-outside-milk-bag.gif" alt="Pixel Art" align="right" width="200">
+<img src="https://media1.tenor.com/m/RE2paf1i2tcAAAAd/milk-outside-milk-bag.gif" alt="Pixel Art" align="right" width="180">
 
 ### Technologies and tools:
 
